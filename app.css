@@ -264,3 +264,7 @@ section#portfolio .card-body {
 .project:nth-child(3) {
   transition-delay: 400ms;
 }
+
+.card-link {
+  text-decoration: underline;
+}
