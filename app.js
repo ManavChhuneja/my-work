@@ -23,7 +23,7 @@ const textArray = [
 let index = 0;
 
 // Defining the speed of the animation in milliseconds
-const speed = 100;
+const speed = 50;
 
 // Defining the function that will create the typewriter animation
 function typewriter() {
@@ -47,7 +47,7 @@ function typewriter() {
       setTimeout(type, speed);
     } else {
       // If it is, wait for 3 seconds and then start the backspace animation
-      setTimeout(backspace, 3000);
+      setTimeout(backspace, 1500);
     }
   }
 

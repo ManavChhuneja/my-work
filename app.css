@@ -268,3 +268,9 @@ section#portfolio .card-body {
 .card-link {
   text-decoration: underline;
 }
+
+@media (max-width: 576px) {
+  section {
+    padding: 5% 8%;
+  }
+}
