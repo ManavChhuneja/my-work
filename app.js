@@ -14,8 +14,8 @@ const container = document.getElementById("typewriter-container");
 
 // Defining the text array
 const textArray = [
-  "Performance Marketer.",
-  "Web Developer.",
+  "Full Stack Developer.",
+  "Growth Manager.",
   "Content Creator.",
 ];
 
